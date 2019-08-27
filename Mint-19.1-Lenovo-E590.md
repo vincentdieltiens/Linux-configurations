@@ -1,3 +1,7 @@
+# Weird & awful noise when booting
+
+Just update the kernel using `ukuu`
+
 # Configuration U2F usb key
 
 Source : https://www.abort-retry-fail.com/2018/09/29/using-a-u2f-yubikey-with-linux-mint-19-tara/
